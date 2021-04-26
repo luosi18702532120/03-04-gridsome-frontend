@@ -1,3 +1,11 @@
+##  前台访问地址
+https://03-04-gridsome-frontend.vercel.app/
+
+## 后台访问地址
+http://106.75.133.221:1337/admin/
+用户名: 1297957337@qq.com
+密码: Ls123456
+
 # Default starter for Gridsome
 
 This is the project you get when you run `gridsome create new-project`.
